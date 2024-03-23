@@ -5,13 +5,13 @@ body {
 
 header {
     justify-content: space-between;
-    padding: ;
+    padding: 10px;
     margin-bottom: 20px;
 }
 
 .button {
     background-color: #36bbce;
-    color: blue;
+    color: white;
     text-decoration: none;
     padding: 15px;
     font-size: 24px;
@@ -23,11 +23,12 @@ nav {
     border-bottom: 5px solid white;
     padding: 25px 100px 25px 95px;
     justify-content: space-between;
+    display: flex;
 }
 
 .nav-link {
     font-size: 24px;
-    color: blue;
+    color: white;
     text-decoration: none;
     margin: 15px;
 }
@@ -53,14 +54,14 @@ p {
 
 article {
     background-color: white;
-    padding: ;
+    padding: 10px;
     width: 400px;
     margin: 15px;
 }
 
 .article-but {
     text-decoration: none;
-    background-color: blue;
+    background-color: wheat;
     color: black;
     font-size: 24px;
     text-align: center;
@@ -68,16 +69,17 @@ article {
 }
 
 footer {
-    background-color: blue;
+    background-color: wheat;
     padding: ;
 }
 
 footer a {
-    margin-right: ;
-    color: ;
+    margin-right: 30px;
+    padding: 15px;
+    color: wheat;
 }
 
 footer p {
     font-size: 24px;
-    color: violet;
+    color: black;
 }
